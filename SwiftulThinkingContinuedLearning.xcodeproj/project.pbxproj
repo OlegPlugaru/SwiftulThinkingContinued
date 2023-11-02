@@ -18,6 +18,7 @@
 		DD4990662AF18B9100EDCDC1 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4990652AF18B9100EDCDC1 /* RotationGestureBootcamp.swift */; };
 		DD4AD57F2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */; };
 		DD4AD5812AF41EC900C3B0AE /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */; };
+		DD4AD5832AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		DD4990652AF18B9100EDCDC1 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				DD3F126D2AF2DADA00FDA662 /* DragGestureBootcamp2.swift */,
 				DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */,
 				DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */,
+				DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */,
 				DD4990572AF182CD00EDCDC1 /* Assets.xcassets */,
 				DD4990592AF182CD00EDCDC1 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				DD3F126C2AF2D5DD00FDA662 /* DragGestureBootcamp.swift in Sources */,
 				DD4990562AF182CC00EDCDC1 /* ContentView.swift in Sources */,
 				DD4AD57F2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift in Sources */,
+				DD4AD5832AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift in Sources */,
 				DD4990542AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearningApp.swift in Sources */,
 				DD4990662AF18B9100EDCDC1 /* RotationGestureBootcamp.swift in Sources */,
 				DD4AD5812AF41EC900C3B0AE /* GeometryReaderBootcamp.swift in Sources */,
