@@ -73,9 +73,9 @@
 				DD3F126B2AF2D5DD00FDA662 /* DragGestureBootcamp.swift */,
 				DD3F126D2AF2DADA00FDA662 /* DragGestureBootcamp2.swift */,
 				DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */,
+				DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */,
 				DD4990572AF182CD00EDCDC1 /* Assets.xcassets */,
 				DD4990592AF182CD00EDCDC1 /* Preview Content */,
-				DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */,
 			);
 			path = SwiftulThinkingContinuedLearning;
 			sourceTree = "<group>";
