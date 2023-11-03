@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD0E91F42AF570CE00C993C6 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD0E91F32AF570CE00C993C6 /* MaskBootcamp.swift */; };
+		DD0E91F62AF574CE00C993C6 /* SoudsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD0E91F52AF574CE00C993C6 /* SoudsBootcamp.swift */; };
+		DD0E91F92AF57AA400C993C6 /* ding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD0E91F82AF57AA400C993C6 /* ding.mp3 */; };
+		DD0E91FB2AF57AAE00C993C6 /* crumple.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD0E91FA2AF57AAE00C993C6 /* crumple.mp3 */; };
 		DD3F126C2AF2D5DD00FDA662 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3F126B2AF2D5DD00FDA662 /* DragGestureBootcamp.swift */; };
 		DD3F126E2AF2DADA00FDA662 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3F126D2AF2DADA00FDA662 /* DragGestureBootcamp2.swift */; };
 		DD4990542AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4990532AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearningApp.swift */; };
@@ -22,6 +26,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD0E91F32AF570CE00C993C6 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		DD0E91F52AF574CE00C993C6 /* SoudsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoudsBootcamp.swift; sourceTree = "<group>"; };
+		DD0E91F82AF57AA400C993C6 /* ding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ding.mp3; sourceTree = "<group>"; };
+		DD0E91FA2AF57AAE00C993C6 /* crumple.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crumple.mp3; sourceTree = "<group>"; };
 		DD3F126B2AF2D5DD00FDA662 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		DD3F126D2AF2DADA00FDA662 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		DD4990502AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,6 +56,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DD0E91F72AF57A9600C993C6 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				DD0E91F82AF57AA400C993C6 /* ding.mp3 */,
+				DD0E91FA2AF57AAE00C993C6 /* crumple.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		DD4990472AF182CC00EDCDC1 = {
 			isa = PBXGroup;
 			children = (
@@ -77,6 +94,9 @@
 				DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */,
 				DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */,
 				DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */,
+				DD0E91F32AF570CE00C993C6 /* MaskBootcamp.swift */,
+				DD0E91F52AF574CE00C993C6 /* SoudsBootcamp.swift */,
+				DD0E91F72AF57A9600C993C6 /* Sounds */,
 				DD4990572AF182CD00EDCDC1 /* Assets.xcassets */,
 				DD4990592AF182CD00EDCDC1 /* Preview Content */,
 			);
@@ -149,6 +169,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD0E91F92AF57AA400C993C6 /* ding.mp3 in Resources */,
+				DD0E91FB2AF57AAE00C993C6 /* crumple.mp3 in Resources */,
 				DD49905B2AF182CD00EDCDC1 /* Preview Assets.xcassets in Resources */,
 				DD4990582AF182CD00EDCDC1 /* Assets.xcassets in Resources */,
 			);
@@ -162,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD3F126E2AF2DADA00FDA662 /* DragGestureBootcamp2.swift in Sources */,
+				DD0E91F42AF570CE00C993C6 /* MaskBootcamp.swift in Sources */,
 				DD3F126C2AF2D5DD00FDA662 /* DragGestureBootcamp.swift in Sources */,
 				DD4990562AF182CC00EDCDC1 /* ContentView.swift in Sources */,
 				DD4AD57F2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift in Sources */,
@@ -169,6 +192,7 @@
 				DD4990542AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearningApp.swift in Sources */,
 				DD4990662AF18B9100EDCDC1 /* RotationGestureBootcamp.swift in Sources */,
 				DD4AD5812AF41EC900C3B0AE /* GeometryReaderBootcamp.swift in Sources */,
+				DD0E91F62AF574CE00C993C6 /* SoudsBootcamp.swift in Sources */,
 				DD4990642AF187B900EDCDC1 /* MagnificationGestureBootcamp.swift in Sources */,
 				DD4990622AF182FD00EDCDC1 /* LongPressGestureBootcamp.swift in Sources */,
 			);
