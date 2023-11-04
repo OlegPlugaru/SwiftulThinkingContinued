@@ -24,6 +24,7 @@
 		DD4AD57F2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */; };
 		DD4AD5812AF41EC900C3B0AE /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */; };
 		DD4AD5832AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */; };
+		DD5032462AF63BE800C42474 /* LocalNotificationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5032452AF63BE800C42474 /* LocalNotificationsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		DD4AD57E2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		DD4AD5802AF41EC900C3B0AE /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		DD4AD5822AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		DD5032452AF63BE800C42474 /* LocalNotificationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				DD0E91F32AF570CE00C993C6 /* MaskBootcamp.swift */,
 				DD0E91F52AF574CE00C993C6 /* SoudsBootcamp.swift */,
 				DD0E91FC2AF57ED700C993C6 /* HapticsBootcamp.swift */,
+				DD5032452AF63BE800C42474 /* LocalNotificationsBootcamp.swift */,
 				DD0E91F72AF57A9600C993C6 /* Sounds */,
 				DD4990572AF182CD00EDCDC1 /* Assets.xcassets */,
 				DD4990592AF182CD00EDCDC1 /* Preview Content */,
@@ -188,6 +191,7 @@
 			files = (
 				DD3F126E2AF2DADA00FDA662 /* DragGestureBootcamp2.swift in Sources */,
 				DD0E91F42AF570CE00C993C6 /* MaskBootcamp.swift in Sources */,
+				DD5032462AF63BE800C42474 /* LocalNotificationsBootcamp.swift in Sources */,
 				DD3F126C2AF2D5DD00FDA662 /* DragGestureBootcamp.swift in Sources */,
 				DD4990562AF182CC00EDCDC1 /* ContentView.swift in Sources */,
 				DD4AD57F2AF4192600C3B0AE /* ScrollViewReaderBootcamp.swift in Sources */,
