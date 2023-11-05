@@ -177,7 +177,7 @@ struct CoreDataRelationshipsBootcamp: View {
     var body: some View {
         NavigationView {
             ScrollView {
-                VStack(spacing: 20) {
+                LazyVStack(spacing: 20) {
                     Button {
                         vm.deleteDepartment()
                     } label: {
