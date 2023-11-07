@@ -35,6 +35,7 @@
 		DD5032732AF6710500C42474 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DD5032712AF6710500C42474 /* CoreDataContainer.xcdatamodeld */; };
 		DD5032752AF7DB5500C42474 /* BackgorundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5032742AF7DB5500C42474 /* BackgorundThreadBootcamp.swift */; };
 		DDC97F132AFAB7D3000215B2 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */; };
+		DDC97F152AFABE19000215B2 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC97F142AFABE19000215B2 /* CodableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		DD5032722AF6710500C42474 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		DD5032742AF7DB5500C42474 /* BackgorundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgorundThreadBootcamp.swift; sourceTree = "<group>"; };
 		DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
+		DDC97F142AFABE19000215B2 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				DD438A252AFAAD0C001A5615 /* WeakSelfBootcamp.swift */,
 				DD438A272AFAB520001A5615 /* TypealiasBootcamp.swift */,
 				DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */,
+				DDC97F142AFABE19000215B2 /* CodableBootcamp.swift */,
 				DD5032712AF6710500C42474 /* CoreDataContainer.xcdatamodeld */,
 				DD50326C2AF6686F00C42474 /* FruitsContainer.xcdatamodeld */,
 				DD0E91F72AF57A9600C993C6 /* Sounds */,
@@ -235,6 +238,7 @@
 				DD4AD5832AF42E4C00C3B0AE /* MultipleSheetsBootcamp.swift in Sources */,
 				DD438A282AFAB520001A5615 /* TypealiasBootcamp.swift in Sources */,
 				DD4990542AF182CC00EDCDC1 /* SwiftulThinkingContinuedLearningApp.swift in Sources */,
+				DDC97F152AFABE19000215B2 /* CodableBootcamp.swift in Sources */,
 				DD438A262AFAAD0C001A5615 /* WeakSelfBootcamp.swift in Sources */,
 				DD4990662AF18B9100EDCDC1 /* RotationGestureBootcamp.swift in Sources */,
 				DD4AD5812AF41EC900C3B0AE /* GeometryReaderBootcamp.swift in Sources */,
