@@ -34,6 +34,7 @@
 		DD5032702AF66FC000C42474 /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD50326F2AF66FC000C42474 /* CoreDataRelationshipsBootcamp.swift */; };
 		DD5032732AF6710500C42474 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DD5032712AF6710500C42474 /* CoreDataContainer.xcdatamodeld */; };
 		DD5032752AF7DB5500C42474 /* BackgorundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5032742AF7DB5500C42474 /* BackgorundThreadBootcamp.swift */; };
+		DDC97F132AFAB7D3000215B2 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		DD50326F2AF66FC000C42474 /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
 		DD5032722AF6710500C42474 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		DD5032742AF7DB5500C42474 /* BackgorundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgorundThreadBootcamp.swift; sourceTree = "<group>"; };
+		DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				DD5032742AF7DB5500C42474 /* BackgorundThreadBootcamp.swift */,
 				DD438A252AFAAD0C001A5615 /* WeakSelfBootcamp.swift */,
 				DD438A272AFAB520001A5615 /* TypealiasBootcamp.swift */,
+				DDC97F122AFAB7D3000215B2 /* EscapingBootcamp.swift */,
 				DD5032712AF6710500C42474 /* CoreDataContainer.xcdatamodeld */,
 				DD50326C2AF6686F00C42474 /* FruitsContainer.xcdatamodeld */,
 				DD0E91F72AF57A9600C993C6 /* Sounds */,
@@ -216,6 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDC97F132AFAB7D3000215B2 /* EscapingBootcamp.swift in Sources */,
 				DD50326E2AF6686F00C42474 /* FruitsContainer.xcdatamodeld in Sources */,
 				DD5032482AF6432700C42474 /* HashableBootcamp.swift in Sources */,
 				DD3F126E2AF2DADA00FDA662 /* DragGestureBootcamp2.swift in Sources */,
